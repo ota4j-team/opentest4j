@@ -1,5 +1,4 @@
 import java.text.SimpleDateFormat
-import java.util.spi.ToolProvider
 
 plugins {
 	id 'java'
